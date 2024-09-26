@@ -1,2 +1,2 @@
-# Projet-r-seau-de-neurones
+# Reseau-neurones
 Projet académique de reconnaissance de lettres
